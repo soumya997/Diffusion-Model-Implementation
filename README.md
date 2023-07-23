@@ -3,7 +3,7 @@
 <img width="600" src="./assets/noise.jpg">
 </p>
 
-scratch implementation of DDPM and Conditional DDPM (classifier free guidance).
+Scratch implementation of DDPM and Conditional DDPM (classifier free guidance).
 
 
 
