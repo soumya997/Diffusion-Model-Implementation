@@ -1,4 +1,8 @@
 # Diffusion-Model-Implementation
+<p align="center">
+<img width="600" src="./assets/noise.jpg">
+</p>
+
 scratch implementation of DDPM
 
 
