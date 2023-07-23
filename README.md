@@ -1,4 +1,4 @@
-# scratch-diffusion-model
+# Diffusion-Model-Implementation
 scratch implementation of DDPM
 
 
