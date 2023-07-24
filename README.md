@@ -10,6 +10,7 @@ Scratch implementation of DDPM and Conditional DDPM (classifier free guidance).
 <img width="300" src="./assets/1.jpg">
 <img width="300" src="./assets/69.jpg">
 <img width="300" src="./assets/70.jpg">
+<img width="300" src="./assets/71.jpg">
 </p>
 
 
