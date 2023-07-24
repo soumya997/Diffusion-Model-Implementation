@@ -5,6 +5,13 @@
 
 Scratch implementation of DDPM and Conditional DDPM (classifier free guidance).
 
+# Inference Image:
+<p align="center">
+<img width="300" src="./assets/1.jpg">
+<img width="300" src="./assets/69.jpg">
+<img width="300" src="./assets/70.jpg">
+</p>
+
 
 
 # References:
